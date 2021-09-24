@@ -21,7 +21,7 @@ This repo is still incomplete, a work in progress to support related presentatio
 4.  Browse the following URL : `localhost:8080/`
 5.  You can register a new account or login using the following credentials : foo@bar.org / foobar
 
-### Build and run with docker-compose
+### Build and run with docker-compose........
 
 *Note, we run build on and a Tomcat 8.5 image here to support tomcat-rce base image demo.*
 ```bash
